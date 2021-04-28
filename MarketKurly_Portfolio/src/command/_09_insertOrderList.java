@@ -26,9 +26,9 @@ public class _09_insertOrderList implements CommandAction{
 		System.out.println(payhow);
 		
 		if(payhow == 1) {
-			pay = "°èÁÂÀÌÃ¼";
+			pay = "ê³„ì¢Œì´ì²´";
 		}else if(payhow == 2) {
-			pay = "½Å¿ëÄ«µå";
+			pay = "ì‹ ìš©ì¹´ë“œ";
 		}
 		
 		for(int i=0; i<cartList.size(); i++) {
